@@ -1,0 +1,136 @@
+[
+    {
+        "id": "REF001",
+        "medarbejder_id": "USR135",
+        "beloeb": 47.0,
+        "valuta": "DKK",
+        "beskrivelse": "Kaffe på farten til morgenmøde",
+        "kategori": "Transport",
+        "dato_udgift": "2025-03-15"
+    },
+    {
+        "id": "REF002",
+        "medarbejder_id": "USR447",
+        "beloeb": 0.0,
+        "valuta": "DKK",
+        "beskrivelse": "Tankning",
+        "kategori": "Transport",
+        "dato_udgift": "2025-03-20"
+    },
+    {
+        "id": "REF003",
+        "medarbejder_id": "USR107",
+        "beloeb": 35.0,
+        "valuta": "DKK",
+        "beskrivelse": "Frimærke",
+        "kategori": "Kontorartikler",
+        "dato_udgift": "2025-04-02"
+    },
+    {
+        "id": "REF004",
+        "medarbejder_id": "USR99",
+        "beloeb": 100.0,
+        "valuta": "DKK",
+        "beskrivelse": "Motorolie",
+        "kategori": "Transport",
+        "dato_udgift": "2024-12-31"
+    },
+    {
+        "id": "REF005",
+        "medarbejder_id": "USR150",
+        "beloeb": 150.75,
+        "valuta": "DKK",
+        "beskrivelse": "Togbillet til kundemøde",
+        "kategori": "Transport",
+        "dato_udgift": "2025-03-28"
+    },
+    {
+        "id": "REF006",
+        "medarbejder_id": "USR102",
+        "beloeb": 50.0,
+        "valuta": "USD",
+        "beskrivelse": "SnagIt",
+        "kategori": "Software",
+        "dato_udgift": "2025-03-15"
+    },
+    {
+        "id": "REF007",
+        "medarbejder_id": "USR376",
+        "beloeb": 200.0,
+        "valuta": "DKK",
+        "kategori": "Software",
+        "dato_udgift": "2025-03-25"
+    },
+    {
+        "id": "REF008",
+        "medarbejder_id": "USR84",
+        "beloeb": 350.0,
+        "valuta": "DKK",
+        "beskrivelse": "Printerpatroner",
+        "kategori": "Kontorartikler",
+        "dato_udgift": "2025-03-05"
+    },
+    {
+        "id": "REF009",
+        "medarbejder_id": "USR111",
+        "beloeb": -750.0,
+        "valuta": "DKK",
+        "beskrivelse": "P-bøde",
+        "kategori": "Transport",
+        "dato_udgift": "2025-03-20"
+    },
+    {
+        "id": "REF010",
+        "medarbejder_id": "USR206",
+        "beloeb": 999.99,
+        "valuta": "DKK",
+        "beskrivelse": "Kundemiddag",
+        "kategori": "Repraesentation",
+        "dato_udgift": "2025-03-29"
+    },
+    {
+        "id": "REF011",
+        "medarbejder_id": "USR203",
+        "beloeb": 1200.0,
+        "valuta": "DKK",
+        "beskrivelse": "Kundemiddag",
+        "kategori": "Repraesentation",
+        "dato_udgift": "2025-03-10"
+    },
+    {
+        "id": "REF012",
+        "medarbejder_id": "USR203",
+        "beloeb": 250.5,
+        "valuta": "DKK",
+        "beskrivelse": "Indkøb af printerpapir og kuglepenne",
+        "kategori": "Kontorartikler",
+        "dato_udgift": "2025-02-15"
+    },
+    {
+        "id": "REF013",
+        "medarbejder_id": "USR202",
+        "beloeb": 850.0,
+        "valuta": "DKK",
+        "beskrivelse": "Middag med potentielle kunder",
+        "kategori": "Repraesentation",
+        "dato_udgift": "2025-03-12"
+    },
+    {
+        "id": "REF014",
+        "medarbejder_id": "USR107",
+        "beloeb": -50.0,
+        "valuta": "EUR",
+        "beskrivelse": "Blomster til reception",
+        "kategori": "Repraesentation",
+        "dato_udgift": "2024-10-01"
+    },
+    {
+        "id": "REF015",
+        "medarbejder_id": "USR204",
+        "beloeb": 499.0,
+        "valuta": "DKK",
+        "beskrivelse": "Årlig licens til projektstyringsværktøj",
+        "kategori": "Software",
+        "dato_udgift": "2025-03-01"
+    }
+]
